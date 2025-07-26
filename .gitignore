@@ -1,0 +1,14 @@
+# Ignore compiled fortune index files
+*.dat
+
+# Ignore editor swap/backup files
+*~
+*.swp
+*.swo
+
+# macOS metadata
+.DS_Store
+
+# Linux / misc metadata
+Thumbs.db
+
