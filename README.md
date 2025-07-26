@@ -1,4 +1,4 @@
-# 🥠 Custom Fortunes for Terminal Fun
+# Custom Fortunes for Terminal Fun
 
 A curated collection of **custom `fortune` databases** for the classic Unix `fortune` program.  
 
@@ -6,7 +6,7 @@ These fortunes range from the Ferengi Rules of Acquisition to Rick & Morty one-l
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 git clone https://github.com/forfaxx/fortune-files.git
@@ -23,7 +23,7 @@ etc.
 
 
 
-## 📁 Directory Structure
+## Directory Structure
 
 Each fortune database includes two files:
 
@@ -43,7 +43,7 @@ fortune-files/
 
 ---
 
-## ✏️ Make Your Own Fortunes
+## Make Your Own Fortunes
 
 Want to add your own quotes?  
 Write a text file with each entry separated by `%`, run `strfile` to compile, and drop it into your fortune folder.
@@ -52,7 +52,7 @@ Write a text file with each entry separated by `%`, run `strfile` to compile, an
 
 <br><br>
 
-## 🚀 Installing Custom Fortunes
+## Installing Custom Fortunes
 
 To install system-wide (requires sudo):
 
@@ -81,7 +81,7 @@ export FORTUNE_PATH="$HOME/.local/share/fortunes"
 
 ---
 
-## 🧠 `fortune` Command Line Options
+## `fortune` Command Line Options
 
 | Option           | Description                                         |
 | ---------------- | --------------------------------------------------- |
