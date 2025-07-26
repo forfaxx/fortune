@@ -1,6 +1,3 @@
-### `~/codelab/dotfiles/fortunes/README.md`
-
-```markdown
 # 🥠 Custom Fortunes for Terminal Fun
 
 A curated collection of **custom `fortune` databases** for the classic Unix `fortune` program.  
@@ -24,7 +21,7 @@ After that, you can run:
 `fortune rickmorty`
 etc. 
 
----
+
 
 ## 📁 Directory Structure
 
@@ -53,6 +50,7 @@ Write a text file with each entry separated by `%`, run `strfile` to compile, an
 
 📖 See the full guide: [Fortune Favors the Sysadmin](https://adminjitsu.com/posts/fortune-favors-the-sysadmin)
 
+<br><br>
 
 ## 🚀 Installing Custom Fortunes
 
